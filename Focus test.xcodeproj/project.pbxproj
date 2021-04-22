@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		11D601972631CE08005CEAD7 /* Focus test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Focus test"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11D6019A2631CE08005CEAD7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		11D601A22631D24C005CEAD7 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				11D6019A2631CE08005CEAD7 /* main.swift */,
+				11D601A22631D24C005CEAD7 /* .gitignore */,
 			);
 			path = "Focus test";
 			sourceTree = "<group>";
