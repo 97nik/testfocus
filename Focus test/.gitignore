@@ -119,7 +119,9 @@ iOSInjectionProject/
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
 
-
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
 
 ## Gcc Patch
 /*.gcno
